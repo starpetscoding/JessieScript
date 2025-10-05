@@ -9,6 +9,6 @@ local data = {
 }
 
 HttpService:PostAsync(
-    "https://discord.com/api/webhooks/1424336790646423585/PHTwg1bVXf3vA_9kDLh1dy-4eZvK0yTKSjf5IRzXelAvXGs36DptM_9LycjoiiP7tg-t",
+    "https://discord.com/api/webhooks/1424340320820400128/_CF8mACEK3OJJrdkF8hDvBnEIUQexVYTnlfk7OwEuO_pXeoUpX0gzzhzGOeQq7GCXGPP",
     HttpService:JSONEncode(data)
 )
